@@ -12,6 +12,6 @@ module.exports = extend({}, commonTest.content, {
     this.smith = pngsmith;
 
     var expectedDir = __dirname + '/expected_files/';
-    this.expectedFilepaths = [expectedDir + '/multiple.png', expectedDir + '/multiple2.png'];
+    this.expectedFilepaths = [expectedDir + '/multiple.png'];
   }
 });
