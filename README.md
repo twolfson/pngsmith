@@ -45,7 +45,9 @@ Support this project and [others by twolfson][gittip] via [gittip][].
 [gittip-badge]: https://rawgithub.com/twolfson/gittip-badge/master/dist/gittip.png
 [gittip]: https://www.gittip.com/twolfson/
 
-## License
-Copyright (c) 2013 Todd Wolfson
+## Unlicense
+As of Dec 13 2013, Todd Wolfson has released this repository and its contents to the public domain.
 
-Licensed under the MIT license.
+It has been released under the [UNLICENSE][].
+
+[UNLICENSE]: UNLICENSE
