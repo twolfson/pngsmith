@@ -12,6 +12,9 @@ module.exports = extend({}, commonTest.content, {
     this.smith = pngsmith;
 
     var expectedDir = __dirname + '/expected_files/';
-    this.expectedFilepaths = [expectedDir + '/multiple.png'];
+    this.expectedFilepaths = [
+      expectedDir + '/multiple-node-0.8.png',
+      expectedDir + '/multiple-node-0.10.png'
+    ];
   }
 });
