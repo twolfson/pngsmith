@@ -33,7 +33,8 @@
     "async": "~0.2.7",
     "ndarray": "~1.0.9",
     "save-pixels": "~0.3.0",
-    "get-pixels": "~1.0.1"
+    "get-pixels": "~1.0.1",
+    "concat-stream": "~1.2.1"
   },
   "devDependencies": {
     "grunt": "~0.4.2",

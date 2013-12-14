@@ -5,7 +5,7 @@ var pngsmith = require('../'),
 
 // Override images with png variants
 commonTest.config.multipleImages = commonTest.config.multiplePngImages;
-commonTest.config.repeatingImages = commonTest.config.repeatingPngImages;
+commonTest.config.repeatingImage = commonTest.config.repeatingPngImage;
 
 module.exports = extend({}, commonTest.content, {
   'pngsmith': function () {
