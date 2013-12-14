@@ -26,7 +26,6 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
-    "preinstall": "phantomjs --version",
     "test": "doubleshot --timeout 60000"
   },
   "dependencies": {
@@ -36,15 +35,19 @@
     "save-pixels": "~0.3.0"
   },
   "devDependencies": {
-    "grunt": "~0.3.17",
+    "grunt": "~0.4.2",
     "doubleshot": "~2.13.1",
     "spritesmith-engine-test": "~1.0.0",
-    "chai": "~1.8.1"
+    "chai": "~1.8.1",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-watch": "~0.5.3"
   },
   "keywords": [
-    "phantomjs",
+    "pngjs",
+    "png",
     "spritesmith",
     "image",
-    "layout"
+    "layout",
+    "canvas"
   ]
 }
