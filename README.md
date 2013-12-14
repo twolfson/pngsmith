@@ -4,6 +4,8 @@
 
 [spritesmith]: https://github.com/Ensighten/spritesmith
 
+This can be used for constructing a canvas, placing images on it, and extracting the result image.
+
 ## Getting Started
 Install the module with: `npm install pngsmith`
 
