@@ -1,6 +1,6 @@
 {
   "name": "pngsmith",
-  "description": "pngjs engine for spritesmith",
+  "description": "png engine for spritesmith",
   "version": "0.1.0",
   "homepage": "https://github.com/twolfson/pngsmith",
   "author": {
@@ -26,13 +26,14 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
-    "test": "doubleshot --timeout 60000"
+    "test": "doubleshot"
   },
   "dependencies": {
     "obj-extend": "~0.1.0",
     "async": "~0.2.7",
     "ndarray": "~1.0.8",
-    "save-pixels": "~0.3.0"
+    "save-pixels": "~0.3.0",
+    "get-pixels": "~1.0.1"
   },
   "devDependencies": {
     "grunt": "~0.4.2",

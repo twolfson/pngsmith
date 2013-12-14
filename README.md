@@ -1,8 +1,7 @@
 # pngsmith [![Build status](https://travis-ci.org/twolfson/pngsmith.png?branch=master)](https://travis-ci.org/twolfson/pngsmith)
 
-[pngjs][] engine for [spritesmith][].
+`png` engine for [spritesmith][].
 
-[pngjs]: https://github.com/niegowski/node-pngjs
 [spritesmith]: https://github.com/Ensighten/spritesmith
 
 ## Getting Started

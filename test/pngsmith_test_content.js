@@ -3,7 +3,7 @@ var pngsmith = require('../'),
     extend = require('obj-extend'),
     commonTest = require('spritesmith-engine-test').content;
 module.exports = extend({}, commonTest, {
-  'phantomjssmith': function () {
+  'pngsmith': function () {
     this.smith = pngsmith;
 
     var expectedDir = __dirname + '/expected_files/';
