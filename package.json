@@ -31,7 +31,7 @@
   "dependencies": {
     "obj-extend": "~0.1.0",
     "async": "~0.2.7",
-    "ndarray": "~1.0.8",
+    "ndarray": "~1.0.9",
     "save-pixels": "~0.3.0",
     "get-pixels": "~1.0.1"
   },
