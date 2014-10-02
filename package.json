@@ -42,7 +42,7 @@
     "grunt-contrib-jshint": "~0.7.2",
     "grunt-contrib-watch": "~0.5.3",
     "mocha": "~1.21.4",
-    "spritesmith-engine-test": "~1.2.1"
+    "spritesmith-engine-test": "~2.0.0-dev-0"
   },
   "keywords": [
     "pngjs",
