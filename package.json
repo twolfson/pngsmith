@@ -26,7 +26,7 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
-    "test": "doubleshot"
+    "test": "mocha"
   },
   "dependencies": {
     "obj-extend": "~0.1.0",
@@ -38,10 +38,10 @@
   },
   "devDependencies": {
     "chai": "~1.8.1",
-    "doubleshot": "~2.13.1",
     "grunt": "~0.4.2",
     "grunt-contrib-jshint": "~0.7.2",
     "grunt-contrib-watch": "~0.5.3",
+    "mocha": "~1.21.4",
     "spritesmith-engine-test": "~1.2.1"
   },
   "keywords": [
