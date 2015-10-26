@@ -1,5 +1,7 @@
 # pngsmith [![Build status](https://travis-ci.org/twolfson/pngsmith.png?branch=master)](https://travis-ci.org/twolfson/pngsmith)
 
+## This project has been deprecated in favor of [pixelsmith][], a [spritesmith][] engine that additionally supports JPEG.
+
 `png` engine for [spritesmith][].
 
 [spritesmith]: https://github.com/Ensighten/spritesmith
