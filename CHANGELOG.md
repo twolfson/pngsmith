@@ -1,4 +1,6 @@
 # pngsmith changelog
+0.1.4 - Added `foundry` for release
+
 0.1.3 - Upgraded to `spritesmith-engine-test@2.0.0` and moved to `mocha`
 
 0.1.2 - Added upgrade to `npm` inside Travis CI to fix `node@0.8` issues
