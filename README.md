@@ -4,6 +4,7 @@
 
 `png` engine for [spritesmith][].
 
+[pixelsmith]: https://github.com/twolfson/pixelsmith
 [spritesmith]: https://github.com/Ensighten/spritesmith
 
 This can be used for constructing a canvas, placing images on it, and extracting the result image.
